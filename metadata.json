@@ -1,0 +1,10 @@
+{
+  "name": "Remix JARVIS - Inteligência Pessoal Stark",
+  "description": "Assistente pessoal inteligente com controle de dispositivos smart home, gestão autônoma de agenda, respostas complexas em tempo real e comando de voz alimentado por IA Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
